@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoonel
 - 👀 I’m interested in network and system telecommunication
-- 🌱 I’m currently learning pythong
+- 🌱 I’m currently learning python
 - 📫 How to reach me laroussimanel1@gmail.com
 
 <!---
